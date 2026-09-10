@@ -5,6 +5,7 @@
 the upstream translation prompt and verifies each rule separately. Rules and
 baseline translations are never included in the translation prompt.
 
+- [Main benchmark page](https://last-translation-benchmark.vilda.net/)
 - [Benchmark repository](https://github.com/zouharvi/last-translation-benchmark)
 - [Dataset](https://huggingface.co/datasets/zouhar/last-translation-benchmark)
 - [Paper](https://arxiv.org/abs/2609.04173)
